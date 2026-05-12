@@ -14,7 +14,7 @@ Projeto desenvolvido em Microsoft Excel para controle de gastos pessoais e visua
 
 ## Ferramentas utilizadas
 - Microsoft Excel
-- Fórmulas: SOMA, SOMASE, CONT.VALORES e cálculo de porcentagem
+- Fórmulas: SOMA, SOMASE, CONT.VALORES, cálculo de porcentagem e formatação condicional
 - Tabela e organização de dados
 - Dashboard visual
 
